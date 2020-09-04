@@ -2,13 +2,13 @@
 
 ### Contact
 
-<span align="center">
+<p align="center">
 <!-- 2bc2d3 -->
 <a href="http://jacobdanovitch.me"><img src="https://img.shields.io/badge/-jacobdanovitch.me-00abab?style=for-the-badge&logo=Microsoft-Edge&logoColor=white" /></a>
 <a href="mailto:jacob.danovitch@mila.quebec"><img src="https://img.shields.io/badge/-Email-purple?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
 <a href="https://linkedin.com/in/jacobdanovitch"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://scholar.google.com/citations?user=bQTv8rkAAAAJ&hl=en"><img src="https://img.shields.io/badge/scholar%20-%234285F4.svg?&style=for-the-badge&logo=google-scholar&logoColor=white" /></a>
-</span>
+</p>
 
 ### Experience
 
