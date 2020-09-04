@@ -15,8 +15,8 @@
 <br/>
 
 <span align="center">
-  <img src="https://github-readme-linkedin.vercel.app/experience?username=jacobdanovitch&limit=2" width="450" height="300" />
-  <img src="https://github-readme-linkedin.vercel.app/education?username=jacobdanovitch&limit=2" width="450" height="300" />
+  <img src="https://github-readme-linkedin.vercel.app/experience?username=jacobdanovitch&limit=2" width="400" height="300" />
+  <img src="https://github-readme-linkedin.vercel.app/education?username=jacobdanovitch&limit=2" width="400" height="300" />
 </span >
 
 ### Tools 
