@@ -10,14 +10,14 @@
 <a href="https://scholar.google.com/citations?user=bQTv8rkAAAAJ&hl=en"><img src="https://img.shields.io/badge/scholar%20-%234285F4.svg?&style=for-the-badge&logo=google-scholar&logoColor=white" /></a>
 </p>
 
+<!-- https://github.com/soroushchehresa/github-readme-linkedin/issues/1
 ### Experience
-
 <br/>
-
 <span align="center">
   <img src="https://github-readme-linkedin.vercel.app/experience?username=jacobdanovitch&limit=2" width="400" height="300" />
   <img src="https://github-readme-linkedin.vercel.app/education?username=jacobdanovitch&limit=2" width="400" height="300" />
 </span >
+-->
 
 ### Tools 
  
